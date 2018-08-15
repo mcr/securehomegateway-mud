@@ -1,5 +1,7 @@
 # Use of MUD artifacts in the Secure Home Gateway project
 
+[![Join the chat at https://gitter.im/securehomegateway-mud/Lobby](https://badges.gitter.im/securehomegateway-mud/Lobby.svg)](https://gitter.im/securehomegateway-mud/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the repository for an www.ietf.org Internet Draft
 for a draft which has no WG.
 
